@@ -1,11 +1,18 @@
-chmod-changes modes of permissions on file
-sudo-makes a temporary superuser
-su-makes you a superuser until you type to exit
-hown-changes ownerships
-chgrp-changes group ownerships
-id-used to find user and group ID's
-groups-displays every directory and file inside the group you're in
-whoami-displays current user and username
-adduser-adds a new user to the current linux machine
-useradd-used for managing users, set passwords, define home directories and more
-addgroup-creates and modifies groups and configurations
+0-iam_betty
+10-mirror_permissions
+11-directories_permissions
+12-directory_permissions
+14-change_owner_and_group
+15-symbolic_link_permissions
+16-if_only
+1-who_am_i
+2-groups
+3-new_owner
+4-empty
+5-execute
+6-multiple_permissions
+7-everybody
+8-James_Bond
+9-John_Doe
+hello
+README.md
