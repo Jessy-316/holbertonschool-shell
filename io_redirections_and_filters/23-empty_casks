@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -x1aR
+ls -lx1aR
