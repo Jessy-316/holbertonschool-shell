@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lnaR
+ls -x1R
