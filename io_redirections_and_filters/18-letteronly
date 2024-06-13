@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -o [[UPPER]] 'a' /etc/ssh/sshd_config
